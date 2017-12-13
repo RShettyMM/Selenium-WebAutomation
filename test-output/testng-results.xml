@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="64545" started-at="2017-11-29T11:50:04Z" finished-at="2017-11-29T11:51:09Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="64545" started-at="2017-11-29T11:50:04Z" finished-at="2017-11-29T11:51:09Z">
+      <class name="tests.ParameterizationLoopTest_ReadXLFile">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.ParameterizationLoopTest_ReadXLFile@c038203]" name="setUp" is-config="true" duration-ms="8677" started-at="2017-11-29T12:50:04Z" finished-at="2017-11-29T12:50:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testWebHotelApp()[pri:0, instance:tests.ParameterizationLoopTest_ReadXLFile@c038203]" name="testWebHotelApp" duration-ms="55850" started-at="2017-11-29T12:50:13Z" finished-at="2017-11-29T12:51:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWebHotelApp -->
+      </class> <!-- tests.ParameterizationLoopTest_ReadXLFile -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
